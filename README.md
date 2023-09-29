@@ -2,13 +2,11 @@
 
 ### I am a Frontend Developer
 
-Since my school years I have been interested in programming.  
-When choosing a profession, I considered going in this direction, but it turned out differently.  
-A few years ago I desided to change my life and become a programmer.  
-Now I am moving in the direction I dreamed of.  
-I started my journey with Python, took a course on Deep Learning and then got to know web development.  
-And I understood that I found my direction.  
-Now my aspirations and desires are aimed at becoming a professional frontend developer.  
+I've been interested in programming all my life. But my profession was different.  
+A few years ago, I decided to change my life and become a programmer.  
+I started my path with Python, took a course on Deep Learning, and then got to know with web development.  
+And I realized that I had found my direction.  
+Now my main goal is to become a professional frontend developer.  
 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)
 
