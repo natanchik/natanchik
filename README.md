@@ -1,11 +1,14 @@
 ### Hi, I am Natalia 👋
 
-#### Frontend Developer
+### I am a Frontend Developer
 
-Since my school years I have been interested in programming. When choosing a profession, I considered going in this direction, but it turned out differently. 
-A few years ago I desided to change my life and become a programmer. Now I am moving in the direction I dreamed of. 
-I started my journey with Python, took a course on Deep Learning and then got to know web development. And I understood that I found my direction. 
-Now my aspirations and desires are aimed at becoming a professional frontend developer.
+Since my school years I have been interested in programming.  
+When choosing a profession, I considered going in this direction, but it turned out differently.  
+A few years ago I desided to change my life and become a programmer.  
+Now I am moving in the direction I dreamed of.  
+I started my journey with Python, took a course on Deep Learning and then got to know web development.  
+And I understood that I found my direction.  
+Now my aspirations and desires are aimed at becoming a professional frontend developer.  
 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)
 
