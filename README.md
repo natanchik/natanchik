@@ -8,7 +8,8 @@ I started my path with Python, took a course on Deep Learning, and then got to k
 And I realized that I had found my direction.  
 Now my main goal is to become a professional frontend developer.  
 
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)
+&#128232; How to connect with me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)  
+&#128188; My experience: [My Portfolio](https://natanchik.github.io/portfolio/)  
 
 ---
 
