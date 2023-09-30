@@ -1,4 +1,4 @@
-### Hi, I am Natalia 👋
+## Hi, I am Natalia 👋
 
 ### I am a Frontend Developer
 
@@ -13,7 +13,7 @@ Now my main goal is to become a professional frontend developer.
 
 ---
 
-My technical stack:
+### My technical stack:
 <div style="display: flex; align-items: center;">
 <img alt="JavaScript" width=54px height=54px src="https://github.com/natanchik/natanchik/assets/79564962/43fabbec-d53a-477f-9ede-f6c5476e733a">
 <img alt="TypeScript" width=55px height=55px src="https://github.com/natanchik/natanchik/assets/79564962/101daf9f-7d0c-4be0-9f7f-88e50f7551d1">
