@@ -3,7 +3,8 @@
 ### I am a Frontend Developer
 
 I have been interested in programming all my life.  
-I started my path in IT with Python, took a course in Deep Learning, and then got acquainted with web development.  
+I started my path in IT with Python, took a course in Deep Learning,  
+and then got acquainted with web development.  
 And I realized that I had found my direction.  
 Now my main goal is to become a professional Frontend developer.  
 
