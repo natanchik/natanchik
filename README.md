@@ -18,6 +18,7 @@ Now my main goal is to become a professional Frontend developer.
 <img alt="JavaScript" width=54px height=54px src="https://github.com/natanchik/natanchik/assets/79564962/43fabbec-d53a-477f-9ede-f6c5476e733a">
 <img alt="TypeScript" width=55px height=55px src="https://github.com/natanchik/natanchik/assets/79564962/101daf9f-7d0c-4be0-9f7f-88e50f7551d1">
 <img alt="React" width=60px height=60px src="https://github.com/natanchik/natanchik/assets/79564962/dfaf2d35-30d1-4cd6-9b3e-426d7156bd5f">
+<img alt="Next" width=58px height=58px src="https://github.com/natanchik/natanchik/assets/79564962/0525a346-f364-4fd4-ab84-7ea538033e8b">
 <img alt="HTML5" width=60px height=60px src="https://github.com/natanchik/natanchik/assets/79564962/17a6a05f-9369-4e30-80e5-8e7026d52a22">
 <img alt="CSS3" height=60px src="https://github.com/natanchik/natanchik/assets/79564962/dad544d2-cfc5-4da4-a490-63218cb29652">
 <img alt="SASS" width=55px height=55px src="https://github.com/natanchik/natanchik/assets/79564962/255cc0f4-27c7-4911-a984-7d97d52c2257">
