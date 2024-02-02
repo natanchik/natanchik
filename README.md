@@ -1,12 +1,11 @@
 ## Hi, I am Natalia 👋
 
-### I am a Frontend Developer
+### Frontend Developer
 
-I have been interested in programming all my life.  
-I started my path in IT with Python, took a course in Deep Learning,  
-and then got acquainted with web development.  
-And I realized that I had found my direction.  
-Now my main goal is to become a pro in Frontend development.  
+Passionate frontend developer with over a year of commercial experience.  
+Loves to code, participates in IT conferences and workshops, has spoken at meetup.  
+Develops adaptive and interactive applications and websites using React, Next.js, Vue.  
+Never stops learning. Ready for any technical challenge! 🌠  
 
 &#128232; How to connect with me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)  
 &#128188; My experience: [My Portfolio](https://natanchik.github.io/portfolio/)  
