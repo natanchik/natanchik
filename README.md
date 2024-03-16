@@ -29,3 +29,5 @@ Never stops learning. Ready for any technical challenge! 🌠
 <img alt="Python" width=58px height=58px src="https://github.com/natanchik/natanchik/assets/79564962/9862ea4a-130c-48b0-b86b-eabd26f2b53e">
 <img alt="Git" width=58px height=58px src="https://github.com/natanchik/natanchik/assets/79564962/c47daa6d-a8d5-4d84-af85-b2f8c9e3e0d4">
 </div>
+
+<h3><img src="https://github-readme-stats.vercel.app/api?username=natanchik&hide=stars" alt="natanchik GitHub stats" alt="stats"></h3>
