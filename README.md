@@ -1,12 +1,12 @@
 ## Hi, I am Natalia 👋
 
-### Frontend Developer
+### Software Engineer
 
-• An enthusiastic Software Engineer with a solid foundation in JavaScript, TypeScript, React and Next.js, complemented by knowledge of Node.js, .Net and Cloud.
-• Mentor, contributor and speaker Rolling Scopes School.
-• Coordinator of The Rolling Scopes Community in Kazakhstan and Kyrgyzstan.
-• Has construction specialist degree.
-• 3+ years as Engineer Estimator, 1.5 years as Lead Engineer and 5+ years as Principal Specialist in a Production and Technical Department at a housing management organization that services 300+ residential buildings. 
+- An enthusiastic Software Engineer with a solid foundation in JavaScript, TypeScript, React and Next.js, complemented by knowledge of Node.js, .Net and Cloud.
+- Mentor, contributor and speaker Rolling Scopes School.
+- Coordinator of The Rolling Scopes Community in Kazakhstan and Kyrgyzstan.
+- Has construction specialist degree.
+- 3+ years as Engineer Estimator, 1.5 years as Lead Engineer and 5+ years as Principal Specialist in a Production and Technical Department at a housing management organization that services 300+ residential buildings. 
 
 &#128232; How to connect with me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)  
 &#128188; My experience: [My Portfolio](https://natanchik.github.io/portfolio/)  
