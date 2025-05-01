@@ -2,10 +2,11 @@
 
 ### Frontend Developer
 
-Passionate frontend developer with over a year of commercial experience.  
-Loves to code, participates in IT conferences and workshops, has spoken at meetup.  
-Develops adaptive and interactive applications and websites using React, Next.js, Vue.  
-Never stops learning. Ready for any technical challenge! 🌠  
+• An enthusiastic Software Engineer with a solid foundation in JavaScript, TypeScript, React and Next.js, complemented by knowledge of Node.js, .Net and Cloud.
+• Mentor, contributor and speaker Rolling Scopes School.
+• Coordinator of The Rolling Scopes Community in Kazakhstan and Kyrgyzstan.
+• Has construction specialist degree.
+• 3+ years as Engineer Estimator, 1.5 years as Lead Engineer and 5+ years as Principal Specialist in a Production and Technical Department at a housing management organization that services 300+ residential buildings. 
 
 &#128232; How to connect with me: [My LinkedIn](https://www.linkedin.com/in/natalia-lebedeva-b0391b293/)  
 &#128188; My experience: [My Portfolio](https://natanchik.github.io/portfolio/)  
