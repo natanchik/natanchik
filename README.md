@@ -26,5 +26,3 @@
 <img alt="Docker" width=60px height=60px src="https://github.com/natanchik/natanchik/assets/79564962/fb249e8d-2c59-4305-a2fd-f1a760b06b99">
 <img alt="Python" width=58px height=58px src="https://github.com/natanchik/natanchik/assets/79564962/9862ea4a-130c-48b0-b86b-eabd26f2b53e">
 </div>
-
-<h3><img src="https://github-readme-stats.vercel.app/api?username=natanchik&hide=stars" alt="natanchik GitHub stats" alt="stats"></h3>
